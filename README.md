@@ -1,4 +1,4 @@
-# Hospitable Angular Code Assessment
+# Angular Code Assessment
 
 Let's create a super simple Inbox list to display a list of conversations that our customers have received from guests across various channels (Airbnb, Vrbo, Booking.com, etc.)
 
