@@ -1,0 +1,8 @@
+<app-header title="Your inbox"></app-header>
+
+<ng-container *ngIf="inboxList$ | async as list; else loading">
+  <app-inbox-list [list]="list"></app-inbox-list>
+</ng-container>
+<ng-template #loading>
+  <app-loading-spinner></app-loading-spinner>
+</ng-template>

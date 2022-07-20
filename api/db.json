@@ -1,0 +1,75 @@
+{
+  "conversations": {
+    "data": [
+      {
+        "uuid": "5af3e6a5-b777-4e5d-8518-8d12c4b40eaa",
+        "read": false,
+        "profile_url": "https://randomuser.me/api/portraits/men/81.jpg",
+        "first_name": "Robert",
+        "last_name": "Carter",
+        "platform": "airbnb",
+        "last_message": {
+          "text": "I would love to come and stay at your property. Can I bring my dog? He is very well behaved?",
+          "received_at_date": "2022-07-05T11:14:36+00:00"
+        },
+        "property": {
+          "uuid": "5af3e6a5-b777-4e5d-8518-8d12c4b40eab",
+          "name": "Cosy charming cottage on the moor",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/187590a0-30a3-46ba-b45e-74de3e68ad7c.jpg?aki_policy=small"
+        },
+        "reservation": {
+          "uuid": "5af3e6a5-b777-4e5d-8518-8d12c4b40eac",
+          "status": "pending",
+          "total": 1200,
+          "num_guests": 2
+        }
+      },
+      {
+        "uuid": "5af3e6a5-b777-4e5d-8518-8d12c4b40ead",
+        "read": true,
+        "profile_url": "https://randomuser.me/api/portraits/women/24.jpg",
+        "first_name": "Gwendolyn",
+        "last_name": "Ross",
+        "platform": "direct",
+        "last_message": {
+          "text": "Do you have wifi at the apartment?",
+          "received_at_date": "2022-07-04T09:12:36+00:00"
+        },
+        "property": {
+          "uuid": "5af3e6a5-b777-4e5d-8518-8d12c4b40eae",
+          "name": "Beach house!",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/82115644/8c502795_original.jpg?aki_policy=small"
+        },
+        "reservation": {
+          "uuid": "5af3e6a5-b777-4e5d-8518-8d12c4b40eaf",
+          "status": "accepted",
+          "total": 600,
+          "num_guests": 4
+        }
+      },
+      {
+        "uuid": "5af3e6a5-b777-4e5d-8518-8d12c4b40eag",
+        "read": true,
+        "profile_url": "https://randomuser.me/api/portraits/men/74.jpg",
+        "first_name": "Julio",
+        "last_name": "Richardson",
+        "platform": "vrbo",
+        "last_message": {
+          "text": "We want to party!",
+          "received_at_date": "2022-07-03T09:12:36+00:00"
+        },
+        "property": {
+          "uuid": "5af3e6a5-b777-4e5d-8518-8d12c4b40eah",
+          "name": "Beach house!",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/82115644/8c502795_original.jpg?aki_policy=small"
+        },
+        "reservation": {
+          "uuid": "5af3e6a5-b777-4e5d-8518-8d12c4b40eai",
+          "status": "declined",
+          "total": 250,
+          "num_guests": 8
+        }
+      }
+    ]
+  }
+}
